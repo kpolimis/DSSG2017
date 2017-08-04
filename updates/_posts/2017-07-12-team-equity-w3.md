@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title: "Buffets & menus #TeamEquity"
 date: 2017-06-30
 author: Jacob Kovacs, Jacob Rich
@@ -10,6 +11,8 @@ author: Jacob Kovacs, Jacob Rich
 # Where we’re at
 
 Last week *#TeamEquity* dug into [DC Action’s interactive mapping tool](http://datatools.dcactionforchildren.org/). We managed to shift the map from the DC area to the Seattle area, to pull data from the [ACS 5 year Census API](https://www.census.gov/data/developers/data-sets/acs-5year.html), to visualize it at the Census block level, and to crosswalking the data so we can show it at the level of [Seattle neighborhoods](http://seattle.findwell.com/seattle-neighborhoods/) that our users will recognize. 
+
+<!--excerpt-->
 
 We also spent some time thinking about how users should be able to interact with the tool. The DC Action tool’s default is to present a ‘buffet’ of indicators that users can switch on or off—like a made-to-order restaurant. Some indicators can be visualized simultaneously, because they’re simply points on the map showing the location of a specific building; other indicators shade an area according to the percentage or number of resources within it, and can therefore be viewed only one at a time.
 

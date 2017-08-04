@@ -1,5 +1,6 @@
 ---
 layout: post
+category: fellows
 title: "Introducing DSSG Fellow Mitchell Goist"
 date: "2017-07-1"
 author: Mitchell Goist
@@ -16,6 +17,8 @@ sciences often has a breadth of qualitative, textual evidence, but a dearth of
 high quality data, so I am bullish on the contribution that information
 extraction techniques, such as the ones I use for my disseration, can have in
 studying social phenomena.
+
+<!--excerpt-->
 
 Data Science for the Social Good often sounds like buzzword alphabet soup to my
 non-academic friends, so perhaps I can point them to this blog after it's

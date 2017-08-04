@@ -1,5 +1,6 @@
 ---
 layout: post
+category: updates
 title:  "Getting things started! #TeamEquity"
 date:   2017-06-23
 author: Jacob Kovacs
@@ -9,7 +10,11 @@ author: Jacob Kovacs
 
 ## What we’re doing
 
-This summer, building on work by [DC Action for Children,](http://datatools.dcactionforchildren.org/) **\#TeamEquity** will be developing an interactive online tool for investigating urban equity and gentrification in Seattle. Our hope is to bring some clarity and direction to an important and impassioned public discussion, and to help various actors see and understand the potential impact of different actions. We want to provide:
+This summer, building on work by [DC Action for Children,](http://datatools.dcactionforchildren.org/) **\#TeamEquity** will be developing an interactive online tool for investigating urban equity and gentrification in Seattle. Our hope is to bring some clarity and direction to an important and impassioned public discussion, and to help various actors see and understand the potential impact of different actions. 
+
+<!--excerpt-->
+
+We want to provide:
 
 - **Decision-making** support for city leaders
 - **Education** for the public

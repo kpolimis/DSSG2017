@@ -1,11 +1,14 @@
 ---
 layout: post
+category: fellows
 title:  "Introducing DSSG Fellow Krista Jones"
 date:   2017-06-16
 author: Krista Jones
 ---
 ![Krista]({{ site.url }}/assets/images/KJ.jpg){:width="225px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
 I am veterinarian, ecologist, and currently a PhD candidate at Murdoch University in Perth, Australia, studying the intersections of wildlife health, behavior, and conservation. I specifically work with one of the most adorable (yet spazzy) marsupials you've never heard of - the critically endangered woylie (a.k.a. [brush-tailed bettong](http://www.australianwildlife.org/wildlife/woylie.aspx)). I am very excited to be at the UW eScience Institute this summer, surrounded by a bevy of enthusiastic, knowledgeable, and dedicated colleagues and mentors. 
+
+<!--excerpt-->
 
 
 ![Krista2]({{ site.url }}/assets/images/KJrelease.jpg){:width="225px" align="right" style="PADDING-LEFT: 5px; PADDING-BOTTOM: 5px;"}
